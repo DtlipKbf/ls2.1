@@ -1,0 +1,32 @@
+.ul {
+    padding: 20px;
+    height: auto;
+    width: auto;
+    background-color: rgb(250, 134, 134);    
+}
+
+.li {
+    margin: 7px;
+    padding: 0px 5px 0px 5px;
+    height: 30px;
+    width: auto;
+    color: white;
+    background-color: #cc3f3f;
+    text-align: center;
+    display: flex;
+}
+
+.p {
+    margin: 0;
+    padding: 7px;
+    height: 15px;
+    width: auto;
+}
+
+.p-1 {
+    margin: 0;
+    padding: 7px;
+    height: auto;
+    width: auto;
+    background-color: #ad1d1d;
+}
